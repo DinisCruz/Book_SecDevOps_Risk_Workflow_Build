@@ -25,7 +25,7 @@ Appendix.md
 
 A.Creating-workflow-in-jira.md
 
-Appendix-A.Creating-workflow-in-jira.md
+A.Creating-workflow-in-jira.md
 x.Creating-a-jira-project.md
 x.step-by-step.md
 
