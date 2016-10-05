@@ -9,6 +9,7 @@
 --------------------------
 2.Using-jira-workflow.md
 --------------------------
+
 Creating-Small-Tests.md
 Using-graduates-to-manage-JIRA.md
 Who-is-actually-making-decisions.md
@@ -17,6 +18,7 @@ Who-is-actually-making-decisions.md
 --------------------------
 Appendix.md
 --------------------------
+
 A.Creating-workflow-in-jira.md
 x.Creating-a-jira-project.md
 x.step-by-step.md
