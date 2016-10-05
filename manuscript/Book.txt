@@ -19,16 +19,13 @@ Who-is-actually-making-decisions.md
 
 
 --------------------------
-Appendix-A.Creating-workflow-in-jira.md
+Appendix.md
 --------------------------
 
 
-1.Creating-Workflow.md
+A.Creating-workflow-in-jira.md
 
-0.Step-by-step-instrunctions.md
-
-
+Appendix-A.Creating-workflow-in-jira.md
 x.Creating-a-jira-project.md
-
-x.Creating-a-Jira-project.md
+x.step-by-step.md
 
