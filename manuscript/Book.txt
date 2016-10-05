@@ -7,11 +7,32 @@
 
 
 --------------------------
-1.Jira-Workflows.md
+1.Creating-jira-workflow.md
 --------------------------
 
 
 1.Creating-Workflow.md
 
-0.Creating-Workflow.md
+0.Step-by-step-instrunctions.md
+
+
+--------------------------
+2.Using-jira-workflow.md
+--------------------------
+
+
+2.Using-jira-workflow.md
+
+
+
+Creating-Small-Tests.md
+
+
+
+Using-graduates-to-manage-JIRA.md
+
+
+
+Who-is-actually-making-decisions.md
+
 
