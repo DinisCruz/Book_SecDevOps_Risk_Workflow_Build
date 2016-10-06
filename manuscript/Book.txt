@@ -30,7 +30,6 @@ x.Creating-better-briefs.md
 For-management.md
 
 0.For-management.md
-Who is actually making decisions.md
 Who-is-actually-making-decisions.md
 
 For-security-teams.md
