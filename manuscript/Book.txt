@@ -14,11 +14,27 @@ Concepts.md
 
 Abusing-the-concept-of-risk.md
 Creating-Small-Tests.md
+Reducing-complexity.md
 Using-graduates-to-manage-JIRA.md
+
+For-developers.md
+
+x.Creating-better-briefs.md
 
 For-management.md
 
 Who-is-actually-making-decisions.md
+
+Jira-workflows.md
+
+
+
+--------------------------
+3.Case-studies.md
+--------------------------
+
+File-upload.md
+
 
 
 --------------------------
@@ -29,4 +45,7 @@ A.Creating-workflow-in-jira.md
 
 x.Creating-a-jira-project.md
 x.step-by-step.md
+
+B.GitHub-book-workflow.md
+
 
