@@ -19,6 +19,7 @@ Using-graduates-to-manage-JIRA.md
 
 For-developers.md
 
+Test-lifecycle.md
 x.Creating-better-briefs.md
 
 For-management.md
