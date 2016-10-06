@@ -14,20 +14,42 @@ Concepts.md
 
 Abusing-the-concept-of-risk.md
 Creating-Small-Tests.md
+Email-is-not-an-official-communication-medium.md
 Reducing-complexity.md
 Using-graduates-to-manage-JIRA.md
+Security-dashboards-and-emails.md
 
 For-developers.md
 
+0.For-developers.md
+Backlog Pit of Despair.md
 Test-lifecycle.md
 x.Creating-better-briefs.md
 
 For-management.md
 
+0.For-management.md
+Who is actually making decisions.md
 Who-is-actually-making-decisions.md
 
+For-security-teams.md
+
+0.For-security-teams.md
+
+Jira-technologies.md
+
+0.Jira-technologies.md
+JQL-query-language.md
+Jira-components.md
+Jira-dashboards.md
+Jira-filters.md
+Jira-kanban-boards.md
+Jira-labels.md
 Jira-workflows.md
 
+Security-Champions.md
+
+Security-champions.md
 
 Threat-Models.md
 
