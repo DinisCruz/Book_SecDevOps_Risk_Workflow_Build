@@ -10,17 +10,15 @@
 2.Using-jira-workflow.md
 --------------------------
 
-2.Using-jira-workflow.md
+Concepts.md
 
-
+Abusing-the-concept-of-risk.md
 Creating-Small-Tests.md
-
-
 Using-graduates-to-manage-JIRA.md
 
+For-management.md
 
 Who-is-actually-making-decisions.md
-
 
 
 --------------------------
