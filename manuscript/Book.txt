@@ -28,6 +28,11 @@ Who-is-actually-making-decisions.md
 Jira-workflows.md
 
 
+Threat-Models.md
+
+0.Threat-models.md
+When-to-do-a-Threat-Model.md
+
 
 --------------------------
 3.Case-studies.md
@@ -48,4 +53,10 @@ x.step-by-step.md
 
 B.GitHub-book-workflow.md
 
+Book-creation-workflow.md
+GitHub-leanpub-hook.md
+GitHub-online-editing.md
+GitHub-repos-used.md
+Html-editing.md
+Tool-leanpub-book-site.md
 
