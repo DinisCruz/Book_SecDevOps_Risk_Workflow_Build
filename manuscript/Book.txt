@@ -14,11 +14,14 @@ Concepts.md
 
 0.Concepts.md
 Abusing-the-concept-of-risk.md
+Accepting-risk.md
 Creating-Small-Tests.md
 Deliver-pentest-reports-using-jira.md
 Email-is-not-an-official-communication-medium.md
+Linking-source-code-to-risks.md
 Reducing-complexity.md
 Start-with-passsing-tests.md
+Ten-minute-hack-vs-one-day-work.md
 Using-appsec-to-measure-quality.md
 Using-graduates-to-manage-JIRA.md
 Risk-dashboards-and-emails.md
@@ -43,6 +46,7 @@ For-security-teams.md
 Jira-technologies.md
 
 0.Jira-technologies.md
+Confluence.md
 JQL-query-language.md
 Jira-components.md
 Jira-copy-and-paste-of-images.md
@@ -58,6 +62,7 @@ Security-champions.md
 Threat-Models.md
 
 0.Threat-models.md
+Threat-model-case-studies.md
 When-to-do-a-Threat-Model.md
 
 
