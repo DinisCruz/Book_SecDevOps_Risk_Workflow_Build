@@ -15,8 +15,11 @@ Concepts.md
 0.Concepts.md
 Abusing-the-concept-of-risk.md
 Creating-Small-Tests.md
+Deliver-pentest-reports-using-jira.md
 Email-is-not-an-official-communication-medium.md
 Reducing-complexity.md
+Start-with-passsing-tests.md
+Using-appsec-to-measure-quality.md
 Using-graduates-to-manage-JIRA.md
 Risk-dashboards-and-emails.md
 
@@ -24,6 +27,7 @@ For-developers.md
 
 0.For-developers.md
 Backlog Pit of Despair.md
+Risk-lifecycle.md
 Test-lifecycle.md
 x.Creating-better-briefs.md
 
@@ -41,6 +45,7 @@ Jira-technologies.md
 0.Jira-technologies.md
 JQL-query-language.md
 Jira-components.md
+Jira-copy-and-paste-of-images.md
 Jira-dashboards.md
 Jira-filters.md
 Jira-kanban-boards.md
@@ -86,4 +91,5 @@ GitHub-leanpub-hook.md
 GitHub-online-editing.md
 GitHub-repos-used.md
 Tool-leanpub-book-site.md
+Atom-Markdown-graphwiz-dot.md
 
