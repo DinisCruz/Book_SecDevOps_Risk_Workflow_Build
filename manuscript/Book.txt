@@ -30,6 +30,7 @@ For-developers.md
 
 0.For-developers.md
 Backlog Pit of Despair.md
+Make-managers-accountable.md
 Risk-lifecycle.md
 Test-lifecycle.md
 x.Creating-better-briefs.md
@@ -37,6 +38,13 @@ x.Creating-better-briefs.md
 For-management.md
 
 0.For-management.md
+Lack-of-action-is-a-risk.md
+OWASP-top-10-risk-methodology.md
+Regular-hackathons.md
+Relationship-with-existing-standards.md
+Third-party-components-and-outsourcing.md
+Understant-projects-risks.md
+Using-logs-to-detect-risks-exploitation.md
 Who-is-actually-making-decisions.md
 
 For-security-teams.md
@@ -97,4 +105,7 @@ GitHub-online-editing.md
 GitHub-repos-used.md
 Tool-leanpub-book-site.md
 Atom-Markdown-graphwiz-dot.md
+
+C.Security-tests-examples.md
+
 
