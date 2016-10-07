@@ -38,12 +38,18 @@ x.Creating-better-briefs.md
 For-management.md
 
 0.For-management.md
+Annual Reports should contain Infosec Part.md
+Cloud Security.md
+I don't know the security status of a website.md
+Insurance-driven-security.md
 Lack-of-action-is-a-risk.md
+Measuring companies application security.md
 OWASP-top-10-risk-methodology.md
 Regular-hackathons.md
 Relationship-with-existing-standards.md
 Third-party-components-and-outsourcing.md
 Understant-projects-risks.md
+Using Tests To Communicate.md
 Using-logs-to-detect-risks-exploitation.md
 Who-is-actually-making-decisions.md
 
@@ -66,12 +72,29 @@ Jira-workflows.md
 
 Security-champions.md
 
+8.Security-Champions.md
+Make-sure-your-Security-Champions-are-given-time.md
+SC's don't take it personal.md
 
 Threat-Models.md
 
 0.Threat-models.md
+Capture-the-success-stories-of-your-threat-models.md
+Developers-need-data-classification.md
 Threat-model-case-studies.md
+Threat-model-community.md
 When-to-do-a-Threat-Model.md
+
+_Misc.md
+
+2.Git-for-security.md
+3.Risk-issues-on-JIRA.md
+4.JIRA-issues.md
+5.Issue-tracking-solution.md
+Describe risks as features.md
+JIRA-Risk-Workflow.md
+Risk accepting threat model.md
+1.JIRA-RISK-Workflow.md
 
 
 --------------------------
