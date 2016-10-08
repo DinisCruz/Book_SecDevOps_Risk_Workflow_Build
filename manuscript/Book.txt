@@ -2,6 +2,7 @@
 
 1.Introduction.md
 2.Change-log.md
+Disclamers.md
 
 {mainmatter}
 
