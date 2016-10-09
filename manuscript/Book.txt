@@ -24,7 +24,7 @@ Start-with-passsing-tests.md
 Ten-minute-hack-vs-one-day-work.md
 Using-appsec-to-measure-quality.md
 Using-graduates-to-manage-JIRA.md
-Risk-dashboards-and-emails.md
+#Risk-dashboards-and-emails.md
 
 For-developers.md
 
@@ -54,7 +54,7 @@ Who-is-actually-making-decisions.md
 For-security-teams.md
 
 
-Jira-risk-workflow.md
+#Jira-risk-workflow.md
 
 Capture-knowledge-when-devs-look-at-code.md
 Describe-risks-as-features.md
@@ -63,7 +63,7 @@ Issue-tracking-solution.md
 Risk-accepting-threat-model.md
 Storing-risk-issues-on-jira.md
 The-smaller-the-better.md
-JIRA-RISK-Workflow.md
+#JIRA-RISK-Workflow.md
 
 Jira-technologies.md
 
@@ -91,8 +91,8 @@ Supported-by-central-appsec.md
 The-security-champions-concept.md
 What-is-an-security-champion.md
 _to_add.md
-If-you-dont-have-an-sc-get-a-mug.md
-Public-references-to-Security-Champions-teams.md
+#If-you-dont-have-an-sc-get-a-mug.md
+#Public-references-to-Security-Champions-teams.md
 
 Threat-Models.md
 
@@ -120,7 +120,7 @@ GitHub-leanpub-hook.md
 GitHub-online-editing.md
 GitHub-repos-used.md
 Tool-leanpub-book-site.md
-Atom-Markdown-graphwiz-dot.md
+#Atom-Markdown-graphwiz-dot.md
 
 C.Security-tests-examples.md
 
