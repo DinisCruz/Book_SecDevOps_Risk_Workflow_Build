@@ -13,7 +13,6 @@ Disclamers.md
 
 Concepts.md
 
-0.Concepts.md
 Abusing-the-concept-of-risk.md
 Accepting-risk.md
 Creating-Small-Tests.md
@@ -29,7 +28,6 @@ Risk-dashboards-and-emails.md
 
 For-developers.md
 
-0.For-developers.md
 Backlog Pit of Despair.md
 Make-managers-accountable.md
 Risk-lifecycle.md
@@ -38,7 +36,6 @@ x.Creating-better-briefs.md
 
 For-management.md
 
-0.For-management.md
 Annual Reports should contain Infosec Part.md
 Cloud Security.md
 I don't know the security status of a website.md
@@ -56,7 +53,6 @@ Who-is-actually-making-decisions.md
 
 For-security-teams.md
 
-0.For-security-teams.md
 
 Jira-risk-workflow.md
 
@@ -67,11 +63,10 @@ Issue-tracking-solution.md
 Risk-accepting-threat-model.md
 Storing-risk-issues-on-jira.md
 The-smaller-the-better.md
-1.JIRA-RISK-Workflow.md
+JIRA-RISK-Workflow.md
 
 Jira-technologies.md
 
-0.Jira-technologies.md
 Confluence.md
 JQL-query-language.md
 Jira-components.md
@@ -101,26 +96,12 @@ Public-references-to-Security-Champions-teams.md
 
 Threat-Models.md
 
-0.Threat-models.md
 Capture-the-success-stories-of-your-threat-models.md
 Developers-need-data-classification.md
 Threat-model-case-studies.md
 Threat-model-community.md
+Threat-models.md
 When-to-do-a-Threat-Model.md
-
-
---------------------------
-3.Case-studies.md
---------------------------
-
-0.Case-studies.md
-
-
-File-upload.md
-
-
-Html-editing.md
-
 
 
 --------------------------
@@ -143,4 +124,9 @@ Atom-Markdown-graphwiz-dot.md
 
 C.Security-tests-examples.md
 
+
+D.Case-studies.md
+
+File-upload.md
+Html-editing.md
 
