@@ -24,7 +24,7 @@ Start-with-passsing-tests.md
 Ten-minute-hack-vs-one-day-work.md
 Using-appsec-to-measure-quality.md
 Using-graduates-to-manage-JIRA.md
-#Risk-dashboards-and-emails.md
+Risk-dashboards-and-emails.md
 
 For-developers.md
 
@@ -36,25 +36,25 @@ x.Creating-better-briefs.md
 
 For-management.md
 
-Annual Reports should contain Infosec Part.md
-Cloud Security.md
-I don't know the security status of a website.md
+Annual-reports-should-contain-infosec-[art.md
+Cloud-security.md
+I-dont-know-the-security-status-of-a-website.md
 Insurance-driven-security.md
 Lack-of-action-is-a-risk.md
-Measuring companies application security.md
+Measuring-companies-application-security.md
 OWASP-top-10-risk-methodology.md
 Regular-hackathons.md
 Relationship-with-existing-standards.md
 Third-party-components-and-outsourcing.md
 Understant-projects-risks.md
-Using Tests To Communicate.md
 Using-logs-to-detect-risks-exploitation.md
+Using-tests-to-communicate.md
 Who-is-actually-making-decisions.md
 
 For-security-teams.md
 
 
-#Jira-risk-workflow.md
+Jira-risk-workflow.md
 
 Capture-knowledge-when-devs-look-at-code.md
 Describe-risks-as-features.md
@@ -63,7 +63,7 @@ Issue-tracking-solution.md
 Risk-accepting-threat-model.md
 Storing-risk-issues-on-jira.md
 The-smaller-the-better.md
-#JIRA-RISK-Workflow.md
+JIRA-RISK-Workflow.md
 
 Jira-technologies.md
 
@@ -89,10 +89,10 @@ Making-Security-Champions-AppSec-Specialists.md
 Security-champions-dont-take-it-personally.md
 Supported-by-central-appsec.md
 The-security-champions-concept.md
-#What-is-an-security-champion.md
-#_to_add.md
-#If-you-dont-have-an-sc-get-a-mug.md
-#Public-references-to-Security-Champions-teams.md
+What-is-an-security-champion.md
+_to_add.md
+If-you-dont-have-an-sc-get-a-mug.md
+Public-references-to-Security-Champions-teams.md
 
 Threat-Models.md
 
@@ -108,7 +108,7 @@ When-to-do-a-Threat-Model.md
 Appendix.md
 --------------------------
 
-#A.Creating-workflow-in-jira.md
+A.Creating-workflow-in-jira.md
 
 x.Creating-a-jira-project.md
 x.step-by-step.md
@@ -120,7 +120,7 @@ GitHub-leanpub-hook.md
 GitHub-online-editing.md
 GitHub-repos-used.md
 Tool-leanpub-book-site.md
-#Atom-Markdown-graphwiz-dot.md
+Atom-Markdown-graphwiz-dot.md
 
 C.Security-tests-examples.md
 
@@ -129,3 +129,4 @@ D.Case-studies.md
 
 File-upload.md
 Html-editing.md
+
