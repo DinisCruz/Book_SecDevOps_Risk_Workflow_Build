@@ -58,6 +58,17 @@ For-security-teams.md
 
 0.For-security-teams.md
 
+Jira-risk-workflow.md
+
+Capture-knowledge-when-devs-look-at-code.md
+Describe-risks-as-features.md
+Git-for-security.md
+Issue-tracking-solution.md
+Risk-accepting-threat-model.md
+Storing-risk-issues-on-jira.md
+The-smaller-the-better.md
+1.JIRA-RISK-Workflow.md
+
 Jira-technologies.md
 
 0.Jira-technologies.md
@@ -93,17 +104,6 @@ Developers-need-data-classification.md
 Threat-model-case-studies.md
 Threat-model-community.md
 When-to-do-a-Threat-Model.md
-
-_Misc.md
-
-2.Git-for-security.md
-3.Risk-issues-on-JIRA.md
-4.JIRA-issues.md
-5.Issue-tracking-solution.md
-Describe risks as features.md
-JIRA-Risk-Workflow.md
-Risk accepting threat model.md
-1.JIRA-RISK-Workflow.md
 
 
 --------------------------
