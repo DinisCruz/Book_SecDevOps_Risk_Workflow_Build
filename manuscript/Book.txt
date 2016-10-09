@@ -110,8 +110,8 @@ Appendix.md
 
 #A.Creating-workflow-in-jira.md
 
-#x.Creating-a-jira-project.md
-#x.step-by-step.md
+x.Creating-a-jira-project.md
+x.step-by-step.md
 
 B.GitHub-book-workflow.md
 
