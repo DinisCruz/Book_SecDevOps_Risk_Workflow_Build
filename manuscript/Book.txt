@@ -1,7 +1,11 @@
 {frontmatter}
 
-Content.md
+1.Introduction.md
+2.Change-log.md
+3.Contributors.md
+Disclamers.md
 License.md
+Printed-version.md
 
 {mainmatter}
 
