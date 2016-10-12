@@ -2,7 +2,9 @@
 
 1.Introduction.md
 2.Change-log.md
+3.Contributors.md
 Disclamers.md
+Printed-version.md
 
 {mainmatter}
 
@@ -16,9 +18,12 @@ Concepts.md
 Abusing-the-concept-of-risk.md
 Accepting-risk.md
 Creating-Small-Tests.md
+Creating-abuse-cases.md
 Deliver-pentest-reports-using-jira.md
 Email-is-not-an-official-communication-medium.md
 Linking-source-code-to-risks.md
+Mitigating-risk.md
+Passive-aggressive-strategy.md
 Reducing-complexity.md
 Start-with-passsing-tests.md
 Ten-minute-hack-vs-one-day-work.md
@@ -89,6 +94,7 @@ Making-Security-Champions-AppSec-Specialists.md
 Security-champions-dont-take-it-personally.md
 Supported-by-central-appsec.md
 The-security-champions-concept.md
+Weekly-meetings.md
 What-is-an-security-champion.md
 _to_add.md
 If-you-dont-have-an-sc-get-a-mug.md
@@ -98,8 +104,10 @@ Threat-Models.md
 
 Capture-the-success-stories-of-your-threat-models.md
 Developers-need-data-classification.md
+Threat-Models-as-better-briefs.md
 Threat-model-case-studies.md
 Threat-model-community.md
+Threat-models-mapped-to-Risks.md
 Threat-models.md
 When-to-do-a-Threat-Model.md
 
@@ -129,4 +137,9 @@ D.Case-studies.md
 
 File-upload.md
 Html-editing.md
+
+E.Github-issue-workflow.md
+
+Github-labels.md
+Reporting-issues.md
 
