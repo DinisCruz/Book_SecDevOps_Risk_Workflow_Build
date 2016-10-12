@@ -1,21 +1,8 @@
 {frontmatter}
 
-1.Introduction.md
-2.Change-log.md
-3.Contributors.md
-Disclamers.md
-Printed-version.md
-
-{mainmatter}
-
-
---------------------------
-1.License.md
---------------------------
-
 images.md
 
-creative-commons-license.png.md
+{mainmatter}
 
 
 --------------------------
