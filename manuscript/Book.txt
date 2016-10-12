@@ -1,6 +1,7 @@
 {frontmatter}
 
-images.md
+Content.md
+License.md
 
 {mainmatter}
 
