@@ -1,10 +1,6 @@
 {frontmatter}
 
-1.Introduction.md
-2.Change-log.md
-3.Contributors.md
-Disclamers.md
-Printed-version.md
+License.md
 
 {mainmatter}
 
