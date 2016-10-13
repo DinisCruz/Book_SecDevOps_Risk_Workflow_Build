@@ -28,6 +28,7 @@ Passive-aggressive-strategy.md
 Reducing-complexity.md
 Start-with-passsing-tests.md
 Ten-minute-hack-vs-one-day-work.md
+Triage-issues-before-devs-see-them.md
 Using-appsec-to-measure-quality.md
 Using-graduates-to-manage-JIRA.md
 Risk-dashboards-and-emails.md
@@ -37,6 +38,7 @@ For-developers.md
 Backlog Pit of Despair.md
 Make-managers-accountable.md
 Risk-lifecycle.md
+Risk-profile-of-frameworks.md
 Test-lifecycle.md
 x.Creating-better-briefs.md
 
@@ -44,6 +46,7 @@ For-management.md
 
 Annual-reports-should-contain-infosec-[art.md
 Cloud-security.md
+Feedback-loops-are-key.md
 I-dont-know-the-security-status-of-a-website.md
 Insurance-driven-security.md
 Lack-of-action-is-a-risk.md
@@ -51,6 +54,7 @@ Measuring-companies-application-security.md
 OWASP-top-10-risk-methodology.md
 Regular-hackathons.md
 Relationship-with-existing-standards.md
+Responsible-disclosure.md
 Third-party-components-and-outsourcing.md
 Understant-projects-risks.md
 Using-logs-to-detect-risks-exploitation.md

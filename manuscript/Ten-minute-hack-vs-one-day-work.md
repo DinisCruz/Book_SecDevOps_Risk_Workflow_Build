@@ -11,4 +11,4 @@
 * Why is it bad?
 
 **In new code legacy**
-* if it also hard to refactor and change, then yes
+- if it also hard to refactor and change, then yes
