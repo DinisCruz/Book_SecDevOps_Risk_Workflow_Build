@@ -86,6 +86,11 @@ Jira-kanban-boards.md
 Jira-labels.md
 Jira-workflows.md
 
+SecDevOps.md
+
+Dev-sec-ops-or-sec-dev-ops.md
+Good-resources-on-dev-sec-ops.md
+
 Security-champions.md
 
 AppSec-memo-from-God.md
