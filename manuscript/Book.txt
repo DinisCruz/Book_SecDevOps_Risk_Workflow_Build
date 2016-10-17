@@ -11,7 +11,29 @@ Printed-version.md
 
 
 --------------------------
-2.Using-jira-workflow.md
+1.Sec-DevOps.md
+--------------------------
+
+Concepts.md
+
+Dev-sec-ops-or-sec-dev-ops.md
+Good-resources-on-dev-sec-ops.md
+History-of-Sec-Devops.md
+Rugged-sofware.md
+
+DevOps.md
+
+Dev-ops.md
+Dont-kill-the-ops.md
+History-of-Devops.md
+Infrastucture-as-code.md
+Patch-speed-as-an-quality-metric.md
+Performing-root-cause-analysis.md
+When-devs-are-admins.md
+
+
+--------------------------
+2.Risk-workflow.md
 --------------------------
 
 Concepts.md
@@ -62,6 +84,7 @@ Who-is-actually-making-decisions.md
 
 For-security-teams.md
 
+create a technology advisory board.md
 
 Jira-risk-workflow.md
 
@@ -85,11 +108,6 @@ Jira-filters.md
 Jira-kanban-boards.md
 Jira-labels.md
 Jira-workflows.md
-
-SecDevOps.md
-
-Dev-sec-ops-or-sec-dev-ops.md
-Good-resources-on-dev-sec-ops.md
 
 Security-champions.md
 
