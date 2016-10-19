@@ -19,6 +19,7 @@ Concepts.md
 Dev-sec-ops-or-sec-dev-ops.md
 Good-resources-on-dev-sec-ops.md
 History-of-Sec-Devops.md
+Making-the-sec-part-invisible.md
 Rugged-sofware.md
 
 DevOps.md
@@ -30,6 +31,9 @@ Infrastucture-as-code.md
 Patch-speed-as-an-quality-metric.md
 Performing-root-cause-analysis.md
 When-devs-are-admins.md
+
+Sec-devops-patterns.md
+
 
 
 --------------------------
@@ -44,6 +48,7 @@ Creating-Small-Tests.md
 Creating-abuse-cases.md
 Deliver-pentest-reports-using-jira.md
 Email-is-not-an-official-communication-medium.md
+Hyperlink-everything-you-do.md
 Linking-source-code-to-risks.md
 Mitigating-risk.md
 Passive-aggressive-strategy.md
@@ -58,6 +63,9 @@ Risk-dashboards-and-emails.md
 For-developers.md
 
 Backlog Pit of Despair.md
+Developer-teams-need-budgets.md
+Developers-should-be-able-to-fire-their-managers.md
+Every-bug-is-an-opportunity.md
 Make-managers-accountable.md
 Risk-lifecycle.md
 Risk-profile-of-frameworks.md
@@ -68,7 +76,9 @@ For-management.md
 
 Annual-reports-should-contain-infosec-[art.md
 Cloud-security.md
+Code-confidence-index.md
 Feedback-loops-are-key.md
+Getting-assurance-and-trust-from-appsec-tests.md
 I-dont-know-the-security-status-of-a-website.md
 Insurance-driven-security.md
 Lack-of-action-is-a-risk.md
@@ -138,6 +148,7 @@ Public-references-to-Security-Champions-teams.md
 Threat-Models.md
 
 Capture-the-success-stories-of-your-threat-models.md
+Chained-threat-models.md
 Developers-need-data-classification.md
 Threat-Models-as-better-briefs.md
 Threat-model-case-studies.md
@@ -177,4 +188,14 @@ E.Github-issue-workflow.md
 
 Github-labels.md
 Reporting-issues.md
+
+
+--------------------------
+From-audio.md
+--------------------------
+
+To-Fix.md
+
+Security Makes You A Better Developer.md
+When Failed Tests Are Good.md
 
