@@ -21,6 +21,7 @@ Good-resources-on-dev-sec-ops.md
 History-of-Sec-Devops.md
 Making-the-sec-part-invisible.md
 Rugged-sofware.md
+When Failed Tests Are Good.md
 
 DevOps.md
 
@@ -69,6 +70,7 @@ Every-bug-is-an-opportunity.md
 Make-managers-accountable.md
 Risk-lifecycle.md
 Risk-profile-of-frameworks.md
+Security Makes You A Better Developer.md
 Test-lifecycle.md
 x.Creating-better-briefs.md
 
@@ -188,14 +190,4 @@ E.Github-issue-workflow.md
 
 Github-labels.md
 Reporting-issues.md
-
-
---------------------------
-From-audio.md
---------------------------
-
-To-Fix.md
-
-Security Makes You A Better Developer.md
-When Failed Tests Are Good.md
 
