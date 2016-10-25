@@ -1,9 +1,11 @@
-**Do security reviews every sprint**
+### Do security reviews every sprint
 
-If you have an agile development environment, you need to do security process and security reviews at the end of every sprint. So, in the period between the sprint is finishing and going live, you really need to do a push to get a sense whether the original threats and issues that were discovered or highlighted in the threat model which would have been done before in that sprint were actually done, or don't exist, in a way verified.
+If you have an agile development environment, you need to implement security procedures and security reviews at the end of every sprint. In the period between the sprint finishing and going live, you need to do a push to get a sense of whether the original threats and issues, that were highlighted in the threat model, were done, or exist, in a verifiable way.
 
-So, this shouldn't be done by the security team, in a way there is a scale, centralized security team I mean. What the scale is, is for the security champion or security contact of each team to do that in his one day a week list time that he spends on the application.
+This task shouldn't be done by the central AppSec team.
 
-Now, if you do a threat model, one of the things that you can do is you can actually know in advance which apps will need a more in depth security review, will need a more in depth security analysis, maybe because of the size of the changes and maybe because of what they are doing or the assets they are touching, and then you can actually schedule the resources.
+The target application Security Champion(s) should do this 'smaller' review, in their one-day-a-week allocated AppSec activities. Only asking for help from the central AppSec team when required.
 
-And you can actually plan to be involved or deeply involved from a more central and more senior point of view. 
+When you create a threat model before the application or feature is build, you will know in advance which apps will need a more in depth security review or analysis. This will depend on the size of the changes, what is being changed, or the assets being handled. This will allow scheduling of  the more experienced and knowledgeable AppSec professionals, which can be internal or external entities.
+
+Note that these 'sprint reviews' are not meant to replace a final security push and (when required) pentests (i.e. Application Security assessments)

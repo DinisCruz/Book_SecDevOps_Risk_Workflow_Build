@@ -100,6 +100,7 @@ Who-is-actually-making-decisions.md
 
 For-security-teams.md
 
+Do-security-reviews-every-sprint.md
 create a technology advisory board.md
 
 Jira-risk-workflow.md
@@ -219,7 +220,6 @@ From-audio.md
 To-Fix.md
 
 Can't Do Security Review When Doing Code Review.md
-Do-security-reviews-every-sprint.md
 Feedback Loops.md
 Good Managers Are Not The Solution.md
 Horizontal Dev Ops.md
