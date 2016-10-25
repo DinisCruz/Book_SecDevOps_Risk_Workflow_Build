@@ -22,15 +22,18 @@ History-of-Sec-Devops.md
 Making-the-sec-part-invisible.md
 Rugged-sofware.md
 When Failed Tests Are Good.md
+Why-secdevops.md
 
 DevOps.md
 
 Dev-ops.md
 Dont-kill-the-ops.md
 History-of-Devops.md
+In-devops-everything-is-code.md
 Infrastucture-as-code.md
 Patch-speed-as-an-quality-metric.md
 Performing-root-cause-analysis.md
+Run-apps-offline.md
 When-devs-are-admins.md
 
 Sec-devops-patterns.md
@@ -63,6 +66,7 @@ Risk-dashboards-and-emails.md
 
 For-developers.md
 
+5000-percent-code-coverage.md
 Backlog Pit of Despair.md
 Developer-teams-need-budgets.md
 Developers-should-be-able-to-fire-their-managers.md
@@ -142,7 +146,7 @@ The-security-champions-concept.md
 Threat-modeling-workshops.md
 Training-security-champions.md
 Weekly-meetings.md
-What-is-an-security-champion.md
+What-is-a-security-champion.md
 _to_add.md
 If-you-dont-have-an-sc-get-a-mug.md
 Public-references-to-Security-Champions-teams.md
@@ -190,4 +194,42 @@ E.Github-issue-workflow.md
 
 Github-labels.md
 Reporting-issues.md
+
+
+--------------------------
+Draft-Notes.md
+--------------------------
+
+To-fix.md
+
+AppSec-Tools.md
+Code-Quality.md
+DevOps.md
+Developers.md
+Government.md
+PoCs.md
+Threat-Models.md
+_Book-intro.md
+
+
+--------------------------
+From-audio.md
+--------------------------
+
+To-Fix.md
+
+Can't Do Security Review When Doing Code Review.md
+Do-security-reviews-every-sprint.md
+Feedback Loops.md
+Good Managers Are Not The Solution.md
+Horizontal Dev Ops.md
+Is The Decision Hyper Linked.md
+Security Champions Involved In Decisions.md
+The Cache Incident.md
+The Pollution Analogy.md
+Threat Model Confirms Pentest.md
+Threat Model Per Feature.md
+Two-focus-for-the-book.md
+Using-git-as-a-backup-strategy.md
+Why-git-hub-and-jira.md
 
