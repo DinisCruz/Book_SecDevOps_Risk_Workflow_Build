@@ -21,6 +21,7 @@ Good-resources-on-dev-sec-ops.md
 History-of-Sec-Devops.md
 Making-the-sec-part-invisible.md
 Rugged-sofware.md
+Using-ai-for-proactive-defence.md
 When Failed Tests Are Good.md
 Why-secdevops.md
 
@@ -86,8 +87,8 @@ Code-confidence-index.md
 Feedback-loops-are-key.md
 Getting-assurance-and-trust-from-appsec-tests.md
 I-dont-know-the-security-status-of-a-website.md
+Inaction-is-a-risk.md
 Insurance-driven-security.md
-Lack-of-action-is-a-risk.md
 Measuring-companies-application-security.md
 OWASP-top-10-risk-methodology.md
 Relationship-with-existing-standards.md
@@ -101,7 +102,7 @@ Who-is-actually-making-decisions.md
 For-security-teams.md
 
 Do-security-reviews-every-sprint.md
-create a technology advisory board.md
+create-a-technology-advisory-board.md
 
 Jira-risk-workflow.md
 
@@ -129,7 +130,6 @@ Jira-workflows.md
 Security-champions.md
 
 AppSec-memo-from-God.md
-Becoming-a-security-champion.md
 Collaboration-technologies.md
 Conference-for-security-champions.md
 Do-you-have-an-heartbeat-you-qualify.md
@@ -148,6 +148,7 @@ Threat-modeling-workshops.md
 Training-security-champions.md
 Weekly-meetings.md
 What-is-a-security-champion.md
+What-it-takes-to-be-a-Security-Champion.md
 _to_add.md
 If-you-dont-have-an-sc-get-a-mug.md
 Public-references-to-Security-Champions-teams.md
