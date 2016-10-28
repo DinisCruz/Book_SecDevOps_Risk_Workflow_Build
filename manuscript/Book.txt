@@ -211,7 +211,6 @@ Developers.md
 Government.md
 PoCs.md
 Threat-Models.md
-_Book-intro.md
 
 
 --------------------------
