@@ -21,7 +21,7 @@ Good-resources-on-dev-sec-ops.md
 History-of-Sec-Devops.md
 Making-the-sec-part-invisible.md
 Rugged-sofware.md
-Using-ai-for-proactive-defence.md
+Using-ai-for-proactive-defense.md
 When Failed Tests Are Good.md
 Why-secdevops.md
 
@@ -219,16 +219,16 @@ From-audio.md
 
 To-Fix.md
 
-Can't Do Security Review When Doing Code Review.md
-Feedback Loops.md
-Good Managers Are Not The Solution.md
-Horizontal Dev Ops.md
-Is The Decision Hyper Linked.md
-Security Champions Involved In Decisions.md
-The Cache Incident.md
-The Pollution Analogy.md
-Threat Model Confirms Pentest.md
-Threat Model Per Feature.md
+Cant-do-security-review-when-doing-code-review.md
+Feedback-loops.md
+Good-managers-are-not-the-solution.md
+Horizontal-dev-ops.md
+Is-the-decision-hyper-linked.md
+Security-champions-involved-in-decisions.md
+The-cache-incident.md
+The-pollution-analogy.md
+Threat-model-confirms-pentest.md
+Threat-model-per-feature.md
 Two-focus-for-the-book.md
 Using-git-as-a-backup-strategy.md
 Why-git-hub-and-jira.md
