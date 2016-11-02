@@ -30,6 +30,7 @@ DevOps.md
 Dev-ops.md
 Dont-kill-the-ops.md
 History-of-Devops.md
+Horizontal-dev-ops.md
 In-devops-everything-is-code.md
 Infrastucture-as-code.md
 Patch-speed-as-an-quality-metric.md
@@ -53,6 +54,7 @@ Creating-Small-Tests.md
 Creating-abuse-cases.md
 Deliver-pentest-reports-using-jira.md
 Email-is-not-an-official-communication-medium.md
+Good-managers-are-not-the-solution.md
 Hyperlink-everything-you-do.md
 Linking-source-code-to-risks.md
 Mitigating-risk.md
@@ -60,6 +62,7 @@ Passive-aggressive-strategy.md
 Reducing-complexity.md
 Start-with-passsing-tests.md
 Ten-minute-hack-vs-one-day-work.md
+The-pollution-analogy.md
 Triage-issues-before-devs-see-them.md
 Using-appsec-to-measure-quality.md
 Using-graduates-to-manage-JIRA.md
@@ -72,6 +75,7 @@ Backlog Pit of Despair.md
 Developer-teams-need-budgets.md
 Developers-should-be-able-to-fire-their-managers.md
 Every-bug-is-an-opportunity.md
+Feedback-loops.md
 Make-managers-accountable.md
 Risk-lifecycle.md
 Risk-profile-of-frameworks.md
@@ -89,6 +93,7 @@ Getting-assurance-and-trust-from-appsec-tests.md
 I-dont-know-the-security-status-of-a-website.md
 Inaction-is-a-risk.md
 Insurance-driven-security.md
+Is-the-decision-hyper-linked.md
 Measuring-companies-application-security.md
 OWASP-top-10-risk-methodology.md
 Relationship-with-existing-standards.md
@@ -102,6 +107,7 @@ Who-is-actually-making-decisions.md
 For-security-teams.md
 
 Do-security-reviews-every-sprint.md
+Risk-workflow-for-software-vendors.md
 create-a-technology-advisory-board.md
 
 Jira-risk-workflow.md
@@ -142,6 +148,7 @@ Regular-hackathons.md
 Rewarding-security-champions.md
 Security-champions-activities.md
 Security-champions-dont-take-it-personally.md
+Security-champions-involved-in-decisions.md
 Supported-by-central-appsec.md
 The-security-champions-concept.md
 Threat-modeling-workshops.md
@@ -220,13 +227,7 @@ From-audio.md
 To-Fix.md
 
 Cant-do-security-review-when-doing-code-review.md
-Feedback-loops.md
-Good-managers-are-not-the-solution.md
-Horizontal-dev-ops.md
-Is-the-decision-hyper-linked.md
-Security-champions-involved-in-decisions.md
 The-cache-incident.md
-The-pollution-analogy.md
 Threat-model-confirms-pentest.md
 Threat-model-per-feature.md
 Two-focus-for-the-book.md

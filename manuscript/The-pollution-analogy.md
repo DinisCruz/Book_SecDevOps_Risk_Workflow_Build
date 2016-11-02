@@ -1,21 +1,34 @@
 ### The Pollution Analogy
 
-When talking about risks I much prefer the pollution analogy versus technical debt. The idea is that we are measuring unintended consequences, we are measuring the unintended side effects of creating something. Which is exactly what in a way pollution is.
+When talking about risks, I prefer to use an pollution analogy rather than technical debt. The idea is that we measure the unintended negative consequences of creating something, which in essence is pollution.
 
-If we look back in time, pollution has been a side effect of the industrial revolution. And for a long period of time, pollution wasn't seen as a problem the same way that today we still don't see security vulnerability as a problem. We still don't see the fact that views are discovering this massive gaping holes in our infrastructure, in our code and we don't view that as a massive problem.
+In the past, pollution was seen an acceptable side effect of the industrial revolution. For a long time, pollution wasn't seen as a problem in the same way that we don't see security vulnerability as a problem today. We still don't understand that gaping holes in our infrastructure, or in our code, are a massive problem for current and future generations.
 
-We don't view the fact that when you find a security vulnerability what you really doing is really questioning hard the whole development pipeline, the whole quality control. How is it possible that these massive gaps, these massive security vulnerabilities, these massive code patterns weren't picked up, weren't understood by the development teams, by the testers, by QA, by the clients, it is just crazy.
+We are still in the infancy of software security, where we are in the 1950s in terms of pollution. David Rice gave a great presentation[^david-rice-pollution] where he talks about the history of pollution and how it maps perfectly with InfoSec and AppSec.
 
-So we are in the very infancy of the maturity of software still. So we are still in the 1950s in terms of pollution. So David Rice had a great presentation where he talked about this and basically his concept was exactly this that security is like pollution.
+Finding a security vulnerability is questioning the entire development pipeline and quality control. How it is possible that these massive gaps, these massive security vulnerabilities and code patterns weren't picked up before. Weren't they understood by the development teams, by the testers, by QA, by the clients?
 
-And what we need to do is to make that pollution visible. So I view that the model of the risks is basically a way to measure that pollution, it is a way to measure the difference between team A and team B.
+Even worse, can't the current NOC and log monitoring detect those when those vulnerabilities are initially probed and ultimately exploited?
 
-So the good news is then we don't say no from security, we don't say don't do this, don't do that or please give me more time to implement this. We just say well if you want to go for feature A in a particular time line, in a particular scope with a particular brief, then you are going to have this pollution, you are going to have this side effect, you are going to have these unintended consequences or we don't even know. You might have a situation where we say well if you go down this direction we actually don't know the consequences of this change.
+We need to make this pollution visible.
 
-So here is a risk for you where basically you are accepting that we do [inaudible 00:02:45] you are accepting that we are basically adding code to our application that we don't understand.
+I view the proposed risk model as a way to measure that pollution, and to measure the difference between app A and app B.
 
-So pollution in that way is much nicer because you can measure, you can quantify, and the analogy is that what we want to do is then start to create a clean code, a code that in a way doesn't pollute which is to do with the evolution of pollution.
+One positive side of using the pollution analogy, is that security doesn't need to say no all time. Instead of saying _"You can't do XYZ"_, AppSec says _"If you want to go for feature A in a specific timeline, in a specific scope with a specific brief, then you will have this residual pollution, and these unintended consequences"_.  
 
-The pollution in a way went from a first phase where they pollute to pay also the end of pipe revolution, then there is a second phase where you basically had the greening movement where you start to be a decent brand like when people were polluting less, but the third phase was a more interesting one was when companies were actually starting to produce things differently in ways that didn't completely even pollute. Where almost the products actually have a positive impact on the environment.
+You could also have a situation where security says, _"Well, if you go in 'that' direction, currently we don't know what are its consequences or security site-effects, so the business owner will have to accept the risk that there is an unknown set of risks which are also not clearly understood"_.
 
-So that is really where we want to get to, we want to get to the point where we are creating software that doesn't have pollution. And in fact that makes things better, though we are a long way away from there.
+The path of using pollution as an analogy is an evolution from the current status quo. At least with it we can measure and label different apps using common metrics. But ideally we want to create a clean code that doesn't pollute
+
+This is analogous to the evolution of pollution.
+
+The first phase of industrial pollution saw pollution as a necessary side effect of progress, with some fines for the worse offenders (the _'polluter pay'_ model).
+
+The second phase established the green movement where business had to behave decently, pollute less and be rewarded by the market.
+
+The third phase is most interesting to this analogy, because in the third phase companies started to produce things in different ways, which not only created better products, but also dramatically reduced or eliminated pollution.
+
+This is where we want to get to in application security. We want to get to the point where we create software that is better, faster, cheaper and secure (i.e. without pollution)
+
+
+[^david-rice-pollution]: See AppSec USA 2010 Keynote "Upon the Threshold of Opportunity" https://vimeo.com/15506033 , and "When talking about Application Security and Software Quality, Pollution is a much better analogy than Technical Debt" http://blog.diniscruz.com/2016/03/when-talking-about-application-security.html  
