@@ -116,10 +116,11 @@ Capture-knowledge-when-devs-look-at-code.md
 Describe-risks-as-features.md
 Git-for-security.md
 Issue-tracking-solution.md
+JIRA-risk-workflow.md
 Risk-accepting-threat-model.md
 Storing-risk-issues-on-jira.md
 The-smaller-the-better.md
-JIRA-RISK-Workflow.md
+Key-concepts.md
 
 Jira-technologies.md
 
@@ -136,6 +137,7 @@ Jira-workflows.md
 Security-champions.md
 
 AppSec-memo-from-God.md
+AppSec-technologies-and-tools.md
 Collaboration-technologies.md
 Conference-for-security-champions.md
 Do-you-have-an-heartbeat-you-qualify.md

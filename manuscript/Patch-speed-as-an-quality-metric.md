@@ -1,22 +1,26 @@
-### Patch speed as an quality metric
+### Patch speed as a quality metric
 
-* patching shouldn't be a problem
-  * if it is a problem:
-    * then that needs to addressed
-    * means that there are problems in deploying the app (or rebuilding the server)
-    * means hard rollbacks
-  * open JIRA ticket on 'lack of patching'
-    * do this before an incident, so that when problems occur (due to lack of patching), there is a way to capture the incidents
-    * history (and Murphy) should provide evidence on the cost of non-patching
-* lack of patching are 'canaries on coal mine' (point to a bigger problem)
-* think of patching as 'fire drills'
+Making small changes to an application (i.e. Patching) should be an easy and smooth event.
 
+However, if it is a problem, it means that there are issues either in deploying the app, or in rebuilding the required infrastructure.
 
-#### Patching is easy
+These issues need to be addressed sooner rather than later, specially since they affect the risk appetite for management and business owners to allow changes and refactoring to occur.
 
-When:
-  * it is easy to run the new version in an isolated environment (with and without production data)
-    * there is a good understanding of what is going to change (files, ports, behaviour, inter-dependencies, schema's changes)
-      * i.e. a diff with the current version of everything
-  * there are Tests (e2e and integration) that run though the affected systems success criteria and confirm (if any) what changed (i.e. the side effects)
-  * it easy to rollback to previous version(s)
+For patching, you really want to seen an [Kanban](https://en.wikipedia.org/wiki/Kanban_(development)) workflow with a healthy fast, smooth flow and an low WIP (Work In Progress)
+
+**What happens when rollbacks are required?**
+
+Before an incident even happens, open a JIRA ticket on 'lack of patching'. This way, when a lack of patching causes problems, you are ready to capture the incidents that occur.
+
+History, and any experience of Murphy's Law, should provide evidence on the cost of non-patching.
+A lack of patching acts as a canary in a coal mine, in so far as it points to bigger problems up ahead. You should think of patching as a type of fire drill.
+
+**When is patching easy**
+
+Patching is easy in the following circumstances:
+
+  * when it is easy to run the new version in an isolated environment (with and without production data)
+  * when there is a good understanding of what is going to change (files, ports, behavior, inter-dependencies, schema's changes)
+     * i.e. a diff with the current version of everything
+  * when there are Tests (e2e and integration) that run though the affected systems' success criteria and confirm any changes (i.e. the side effects)
+  * when it easy to rollback to previous version(s)
