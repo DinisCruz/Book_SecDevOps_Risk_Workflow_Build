@@ -116,7 +116,6 @@ Capture-knowledge-when-devs-look-at-code.md
 Describe-risks-as-features.md
 Git-for-security.md
 Issue-tracking-solution.md
-JIRA-risk-workflow.md
 Risk-accepting-threat-model.md
 Storing-risk-issues-on-jira.md
 The-smaller-the-better.md
