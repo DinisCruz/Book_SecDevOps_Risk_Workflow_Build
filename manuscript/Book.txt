@@ -6,6 +6,8 @@
 Disclamers.md
 License.md
 Printed-version.md
+Two-focus-for-the-book.md
+Why-git-hub-and-jira.md
 
 {mainmatter}
 
@@ -81,6 +83,8 @@ Risk-lifecycle.md
 Risk-profile-of-frameworks.md
 Security Makes You A Better Developer.md
 Test-lifecycle.md
+The-authentication-micro-service-cache-incident.md
+Using-git-as-a-backup-strategy.md
 x.Creating-better-briefs.md
 
 For-management.md
@@ -169,6 +173,8 @@ Developers-need-data-classification.md
 Threat-Models-as-better-briefs.md
 Threat-model-case-studies.md
 Threat-model-community.md
+Threat-model-confirms-pentest.md
+Threat-model-per-feature.md
 Threat-models-mapped-to-Risks.md
 Threat-models.md
 When-to-do-a-Threat-Model.md
@@ -228,10 +234,9 @@ From-audio.md
 To-Fix.md
 
 Cant-do-security-review-when-doing-code-review.md
-The-cache-incident.md
-Threat-model-confirms-pentest.md
-Threat-model-per-feature.md
-Two-focus-for-the-book.md
-Using-git-as-a-backup-strategy.md
-Why-git-hub-and-jira.md
+Create-risks-for-code-hacks.md
+Every-project-starts-with-100-code-coverage.md
+Insurance-premiums-for-software-risks-must-be-public.md
+Use-code-coverage-as-an-analysis-tool.md
+Using-git-tomanage-documents.md
 
