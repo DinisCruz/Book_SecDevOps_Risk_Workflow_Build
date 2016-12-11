@@ -19,6 +19,7 @@ Why-git-hub-and-jira.md
 Concepts.md
 
 Dev-sec-ops-or-sec-dev-ops.md
+Dont-blame-the-developers.md
 Good-resources-on-dev-sec-ops.md
 History-of-Sec-Devops.md
 Making-the-sec-part-invisible.md
@@ -30,7 +31,9 @@ Why-secdevops.md
 DevOps.md
 
 Dev-ops.md
+Disposable-it-infrastructure.md
 Dont-kill-the-ops.md
+Everything-is-code.md
 History-of-Devops.md
 Horizontal-dev-ops.md
 In-devops-everything-is-code.md
@@ -52,6 +55,7 @@ Concepts.md
 
 Abusing-the-concept-of-risk.md
 Accepting-risk.md
+Cant-do-security-review-when-doing-code-review.md
 Creating-Small-Tests.md
 Creating-abuse-cases.md
 Deliver-pentest-reports-using-jira.md
@@ -77,6 +81,7 @@ Backlog Pit of Despair.md
 Developer-teams-need-budgets.md
 Developers-should-be-able-to-fire-their-managers.md
 Every-bug-is-an-opportunity.md
+Every-project-starts-with-100-code-coverage.md
 Feedback-loops.md
 Make-managers-accountable.md
 Risk-lifecycle.md
@@ -110,6 +115,7 @@ Who-is-actually-making-decisions.md
 
 For-security-teams.md
 
+Defensible-findings.md
 Do-security-reviews-every-sprint.md
 Risk-workflow-for-software-vendors.md
 create-a-technology-advisory-board.md
@@ -233,10 +239,14 @@ From-audio.md
 
 To-Fix.md
 
-Cant-do-security-review-when-doing-code-review.md
 Create-risks-for-code-hacks.md
-Every-project-starts-with-100-code-coverage.md
+How To Deal With Problematic Teams.md
+How To Make Business Owners Accountable.md
 Insurance-premiums-for-software-risks-must-be-public.md
+One Number To Define Risk.md
+Pentest Aren't Secure Reassessment .md
+Security Champions To Provide Evidence.md
 Use-code-coverage-as-an-analysis-tool.md
+Using Tokens To Access Data.md
 Using-git-tomanage-documents.md
 
